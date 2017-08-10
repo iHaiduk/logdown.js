@@ -39,10 +39,10 @@
   "homepage": "https://github.com/caiogondim/logdown",
   "devDependencies": {
     "browserify": "^14.4.0",
-    "codecov": "^2.2.0",
+    "codecov": "^2.3.0",
     "jest": "^20.0.4",
-    "standard": "^10.0.2",
-    "uglify-js": "^3.0.23"
+    "standard": "^10.0.3",
+    "uglify-js": "^3.0.27"
   },
   "jest": {
     "roots": [
@@ -54,7 +54,7 @@
     ]
   },
   "dependencies": {
-    "chalk": "^2.0.1"
+    "chalk": "^2.1.0"
   },
   "types": "./index.d.ts"
 }
